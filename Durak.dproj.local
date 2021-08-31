@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.819,D:\Мои программы\Delphi\Проект Дурак\Durak 0.98_FireMonkey\Unit1.pas=D:\Андрей\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.534,D:\Мои программы\Delphi\Проект Дурак\Durak 0.98_FireMonkey\Project1.dproj=D:\Андрей\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.222,D:\Мои программы\Delphi\Проект Дурак\Durak 0.99_FM\Project1.dproj=D:\Мои программы\Delphi\Проект Дурак\Durak 0.99_FM\Durak.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,=D:\Андрей\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.819,D:\Мои программы\Delphi\Проект Дурак\Durak 0.98_FireMonkey\Unit1.fmx=D:\Андрей\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
+	</ActiveMobileDevice>
+	<BT_BuildType>AppStore</BT_BuildType>
+</BorlandProject>
